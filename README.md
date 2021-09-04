@@ -11,3 +11,5 @@ Python code to access the Open Weather Map API and query future-day forecasts co
 Extracts the the minimum and maximum forecast temperatures (temperatureMin and temperatureMax) for the upcoming five days. <br>
 
 Writes a CSV with the five minimum and maximum forecast temperatures, and the overall minimum and maximum forecast temperatures for each city. <br>
+
+Add personal API key to code: XXXXX
